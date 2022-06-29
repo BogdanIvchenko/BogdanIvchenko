@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" size="3px">
+## Hello, viewer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" size="10%">
 
 ## My name is Bohdan and I am a student in University of Washington Tacoma. 
 
