@@ -2,4 +2,6 @@
 
 # My name is Bohdan and I am a student in University of Washington Tacoma. 
 
-# Go Huskies! 
+# Feel free to reach out on linkedin:
+
+https://www.linkedin.com/in/bohdanivchenko/
